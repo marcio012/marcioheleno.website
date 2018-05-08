@@ -2070,13 +2070,12 @@ img.footer-logo {
 }
 @media screen and (max-width: 992px) {
   .a-header {
-    /* background: #fff !important; */
     border-bottom: 1px solid #E5B449;
   }
 }
 
 .a-header-active {
-  bbackground: #222323;
+  background: #222323;
   border-bottom: 1px solid #E5B449;
 }
 
@@ -3735,6 +3734,10 @@ video.bgvid {
   -ms-transition: all 700ms ease-out;
 }
 
-.logo-footer {
+
+.logo {
   width: 25%;
+}
+.logo-footer {
+  width: %;
 }
